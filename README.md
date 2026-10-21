@@ -1,50 +1,74 @@
 <div align="center">
 
-# `LOMANIC`
+# Lomanic
+<img src="banner.jpg" alt="Banner de perfil" width="100%">
+### `Developer` · Paraguay
 
-### `// construyendo cosas, una línea a la vez.`
-
-**Diego Gómez Insfrán** · Paraguay  
-`developer` &nbsp;·&nbsp; `builder` &nbsp;·&nbsp; `curious by default`
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=LomanicDev&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS)
+*Aprendiendo, probando ideas y creando proyectos paso a paso.*
 
 </div>
-
----
-
-```text
-┌─ CURRENT FOCUS ─────────────────────────────────────────┐
-│  explorando ideas · aprendiendo en el proceso · shipping │
-└──────────────────────────────────────────────────────────┘
-```
-
-### `> about me`
-
-Me gusta crear proyectos, experimentar con tecnología y aprender haciendo. Este perfil es mi espacio para compartir lo que voy construyendo.
-
-### `> tech stack`
-
-<div align="left">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111318?style=flat-square&logo=javascript&logoColor=8b5cf6)
-![Git](https://img.shields.io/badge/Git-111318?style=flat-square&logo=git&logoColor=8b5cf6)
-![GitHub](https://img.shields.io/badge/GitHub-111318?style=flat-square&logo=github&logoColor=8b5cf6)
-
-</div>
-
-### `> featured project`
-
-**[blackline-bmw](https://github.com/LomanicDev/blackline-bmw)**  
-Un proyecto en JavaScript. En progreso.
 
 ---
 
 <div align="center">
 
-`dark mode · quiet focus · violet pixels`
+## ⌘ Tecnologías
+
+### Lenguajes
+
+![Python](https://img.shields.io/badge/Python-171521?style=for-the-badge&logo=python&logoColor=C4A7FF)
+![C](https://img.shields.io/badge/C-171521?style=for-the-badge&logo=c&logoColor=C4A7FF)
+![C++](https://img.shields.io/badge/C%2B%2B-171521?style=for-the-badge&logo=c%2B%2B&logoColor=C4A7FF)
+![C#](https://img.shields.io/badge/C%23-171521?style=for-the-badge&logo=csharp&logoColor=C4A7FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-171521?style=for-the-badge&logo=javascript&logoColor=C4A7FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-171521?style=for-the-badge&logo=typescript&logoColor=C4A7FF)
+![Java](https://img.shields.io/badge/Java-171521?style=for-the-badge&logo=openjdk&logoColor=C4A7FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-171521?style=for-the-badge&logo=kotlin&logoColor=C4A7FF)
+![Go](https://img.shields.io/badge/Go-171521?style=for-the-badge&logo=go&logoColor=C4A7FF)
+![Rust](https://img.shields.io/badge/Rust-171521?style=for-the-badge&logo=rust&logoColor=C4A7FF)
+![PHP](https://img.shields.io/badge/PHP-171521?style=for-the-badge&logo=php&logoColor=C4A7FF)
+![Lua](https://img.shields.io/badge/Lua-171521?style=for-the-badge&logo=lua&logoColor=C4A7FF)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-171521?style=for-the-badge&logo=html5&logoColor=C4A7FF)
+![CSS3](https://img.shields.io/badge/CSS3-171521?style=for-the-badge&logo=css3&logoColor=C4A7FF)
+![React](https://img.shields.io/badge/React-171521?style=for-the-badge&logo=react&logoColor=C4A7FF)
+![Node.js](https://img.shields.io/badge/Node.js-171521?style=for-the-badge&logo=nodedotjs&logoColor=C4A7FF)
+![Vite](https://img.shields.io/badge/Vite-171521?style=for-the-badge&logo=vite&logoColor=C4A7FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-171521?style=for-the-badge&logo=tailwindcss&logoColor=C4A7FF)
+
+### Herramientas y datos
+
+![Git](https://img.shields.io/badge/Git-171521?style=for-the-badge&logo=git&logoColor=C4A7FF)
+![GitHub](https://img.shields.io/badge/GitHub-171521?style=for-the-badge&logo=github&logoColor=C4A7FF)
+![VS Code](https://img.shields.io/badge/VS_Code-171521?style=for-the-badge&logo=visualstudiocode&logoColor=C4A7FF)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-171521?style=for-the-badge&logo=visualstudio&logoColor=C4A7FF)
+![Linux](https://img.shields.io/badge/Linux-171521?style=for-the-badge&logo=linux&logoColor=C4A7FF)
+![Bash](https://img.shields.io/badge/Bash-171521?style=for-the-badge&logo=gnubash&logoColor=C4A7FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171521?style=for-the-badge&logo=postgresql&logoColor=C4A7FF)
+![MySQL](https://img.shields.io/badge/MySQL-171521?style=for-the-badge&logo=mysql&logoColor=C4A7FF)
+![SQLite](https://img.shields.io/badge/SQLite-171521?style=for-the-badge&logo=sqlite&logoColor=C4A7FF)
+![Docker](https://img.shields.io/badge/Docker-171521?style=for-the-badge&logo=docker&logoColor=C4A7FF)
 
 </div>
+
+---
+
+## ⌘ Sobre mí
+
+¡Hola! Soy **Diego**, o como mi nickname de usuario **Lomanic**. Me interesa la programación y estoy explorando distintos lenguajes y herramientas mientras construyo proyectos cada vez más ambiciosos.
+
+- Actualmente masterizando **Python, C++, C#, Java**.
+- Aprendiendo con práctica y proyectos personales.
+- Mi objetivo: seguir mejorando y compartir lo que voy creando.
+
+---
+
+<div align="center">
+
+### `Gracias por pasar por aquí`
+
+</div>
+
 
