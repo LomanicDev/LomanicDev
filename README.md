@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LomanicDev/LomanicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `LOMANIC`
 
-Here are some ideas to get you started:
+### `// construyendo cosas, una línea a la vez.`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Diego Gómez Insfrán** · Paraguay  
+`developer` &nbsp;·&nbsp; `builder` &nbsp;·&nbsp; `curious by default`
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=LomanicDev&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+```text
+┌─ CURRENT FOCUS ─────────────────────────────────────────┐
+│  explorando ideas · aprendiendo en el proceso · shipping │
+└──────────────────────────────────────────────────────────┘
+```
+
+### `> about me`
+
+Me gusta crear proyectos, experimentar con tecnología y aprender haciendo. Este perfil es mi espacio para compartir lo que voy construyendo.
+
+### `> tech stack`
+
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111318?style=flat-square&logo=javascript&logoColor=8b5cf6)
+![Git](https://img.shields.io/badge/Git-111318?style=flat-square&logo=git&logoColor=8b5cf6)
+![GitHub](https://img.shields.io/badge/GitHub-111318?style=flat-square&logo=github&logoColor=8b5cf6)
+
+</div>
+
+### `> featured project`
+
+**[blackline-bmw](https://github.com/LomanicDev/blackline-bmw)**  
+Un proyecto en JavaScript. En progreso.
+
+---
+
+<div align="center">
+
+`dark mode · quiet focus · violet pixels`
+
+</div>
+
