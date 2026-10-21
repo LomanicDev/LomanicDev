@@ -1,7 +1,7 @@
 <div align="center">
-
-# Lomanic
 <img src="banner.jpg" alt="Banner de perfil" width="100%">
+  
+# Lomanic
 ### `Developer` · Paraguay
 
 *Aprendiendo, probando ideas y creando proyectos paso a paso.*
