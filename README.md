@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## ⌘ Tecnologías
+## ⤷ Tecnologías
 
 ### Lenguajes
 
@@ -55,7 +55,7 @@
 
 ---
 
-## ⌘ Sobre mí
+## ⤷ Sobre mí
 
 ¡Hola! Soy **Diego**, o como mi nickname de usuario **Lomanic**. Me interesa la programación y estoy explorando distintos lenguajes y herramientas mientras construyo proyectos cada vez más ambiciosos.
 
